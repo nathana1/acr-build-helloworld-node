@@ -13,7 +13,7 @@ urlFragment: acr-build-helloworld-node
 
 This Node.js application is for use in demonstrating scenarios for Azure Container Registry Tasks. [ACR Tasks](https://docs.microsoft.com/azure/container-registry/container-registry-tasks-overview) is a suite of features within [Azure Container Registry](https://azure.microsoft.com/services/container-registry/) for performing Docker container builds on [Azure](https://azure.com), as well as automated OS and framework patching for Docker containers.
 
-Update 2
+Update 3
 
 ## Features
 
